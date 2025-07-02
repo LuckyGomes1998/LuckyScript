@@ -1,0 +1,2 @@
+# LuckyScript
+Script Lucky Script
